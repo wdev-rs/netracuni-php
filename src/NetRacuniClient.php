@@ -15,7 +15,7 @@ class NetRacuniClient
 
     private array $headers;
 
-    const SANDBOX_URL = 'http://local.netracuni.com/api';
+    const SANDBOX_URL = 'https://staging.netracuni.com/api';
     const PRODUCTION_URL = 'https://netracuni.com/api';
 
     /**
