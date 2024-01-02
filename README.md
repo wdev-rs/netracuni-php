@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/wdev-rs/netracuni-php.svg?style=flat-square)](https://packagist.org/packages/wdev-rs/netracuni-php)
 [![Total Downloads](https://img.shields.io/packagist/dt/wdev-rs/netracuni-php.svg?style=flat-square)](https://packagist.org/packages/wdev-rs/netracuni-php)
+![Tests](https://github.com/wdev-rs/netracuni-php/actions/workflows/main.yml/badge.svg)
 
 The NetRačuni PHP sdk makes it easy to use the NetRačuni API from any PHP based webshop. 
 It supports all the features from the API, easy to use and compatible with PHP version >= 7.4
